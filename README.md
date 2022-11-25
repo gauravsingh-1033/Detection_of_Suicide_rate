@@ -1,0 +1,1 @@
+# Detection_of_Suicide_rate
